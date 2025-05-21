@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
-      title: 'riferal platform',
+      title: 'jpro',
       locale: Locale('en'),
       theme: ThemeData(
         primarySwatch: Colors.blue,
